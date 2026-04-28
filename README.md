@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Yowataro. 
+I'm Yowataro no nakano hito.
 <!--
 **RyouTohata/RyouTohata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
